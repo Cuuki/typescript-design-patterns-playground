@@ -8,10 +8,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "ramda": "^0.27.1",
+    "rxjs": "^6.6.3",
     "vue": "^3.0.0",
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {
+    "@types/ramda": "^0.27.34",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-typescript": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
